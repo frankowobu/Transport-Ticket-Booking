@@ -6,6 +6,7 @@ A backend application for managing bus transport tickets. This project includes 
 - Ticket booking and cancellation by passengers
 - Creation and update of routes by admin
 - Search for available Bus transport schedules based on the chosen route by passengers
+- Preview of all available tickets for each passenger
 
 ## Technologies
 - Java
