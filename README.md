@@ -18,8 +18,13 @@ A backend application for managing bus transport tickets. This project includes 
 ## Installation
 1. Clone the repository: git clone https://github.com/frankowobu/Transport-Ticket-Booking.git
 2. cd transport-ticket-backend
-3. mvn clean install
-4. mvn spring-boot:run
+3. create a database on MySQL called "booking_system" 
+4. mvn clean install
+5. mvn spring-boot:run
+
+## Endpoints
+OPEN YOUR POSTMAN TO TEST THE API
+git clone https://github.com/frankowobu/Bus-ticket-Booking-postman.git This contains all the API requests in this project.
 
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request.
