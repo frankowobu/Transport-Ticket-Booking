@@ -23,7 +23,7 @@ A backend application for managing bus transport tickets. This project includes 
 5. mvn spring-boot:run
 
 ## Endpoints
-OPEN YOUR POSTMAN TO TEST THE API
+OPEN YOUR POSTMAN TO TEST THE API  
 git clone https://github.com/frankowobu/Bus-ticket-Booking-postman.git 
 This contains all the API requests in this project.
 
