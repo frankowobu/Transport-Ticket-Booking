@@ -24,7 +24,8 @@ A backend application for managing bus transport tickets. This project includes 
 
 ## Endpoints
 OPEN YOUR POSTMAN TO TEST THE API
-git clone https://github.com/frankowobu/Bus-ticket-Booking-postman.git This contains all the API requests in this project.
+git clone https://github.com/frankowobu/Bus-ticket-Booking-postman.git 
+This contains all the API requests in this project.
 
 ## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request.
